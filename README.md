@@ -2,8 +2,7 @@
 Advanced Battery-tracker that uses a simpel app that gathers usage data and displays estimated battery-life with a back-end that analyses the data and creates a model for battery-life under different use-cases
 
 
-{Advanced_batterytracker for android}
-    Copyright (C) {2016}  {Benjamin Klintström}
+{Advanced_batterytracker for android} Copyright (C) {2016}  {Benjamin Klintström}
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
